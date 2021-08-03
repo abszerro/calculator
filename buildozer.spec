@@ -4,7 +4,7 @@
 title = Calculator
 
 # (str) Package name
-package.name = Calculator
+package.name = calculator
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.abszerro
